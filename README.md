@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshithaark
-- 👀 I’m interested in Hacking
+- 👀 I’m interested in Backend Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/harshitha-a-r-67b134247/
